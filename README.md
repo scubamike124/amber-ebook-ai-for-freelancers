@@ -7,11 +7,10 @@ This repository is a **listing only** — manuscripts and PDFs are **not** inclu
 
 | Edition | Price | Buy (Stripe on Amber HQ) |
 |---|---:|---|
-| Short | $9.99 | [Buy Short Edition](https://hq.amberoneai.com/store/ebooks/buy?bookId=ebook_ai-for-freelancers_mt3g9l30&product=short) |
-| Complete | $29.99 | [Buy Complete Edition](https://hq.amberoneai.com/store/ebooks/buy?bookId=ebook_ai-for-freelancers_mt3g9l30&product=long) |
+| Short | $9.99 | [Buy Short Edition](https://hq.amberoneai.com/store/ebooks?bookId=ebook_ai-for-freelancers_mt3g9l30&product=short) |
+| Complete | $29.99 | [Buy Complete Edition](https://hq.amberoneai.com/store/ebooks?bookId=ebook_ai-for-freelancers_mt3g9l30&product=long) |
 
-Full catalog: https://hq.amberoneai.com/store/ebooks  
-If a buy link is still deploying, open the store and select **AI for Freelancers: Mastering the Future of Work**.
+Or open the full catalog and select **AI for Freelancers: Mastering the Future of Work**: https://hq.amberoneai.com/store/ebooks
 
 ## About
 
