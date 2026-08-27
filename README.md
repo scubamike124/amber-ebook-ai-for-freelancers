@@ -16,7 +16,7 @@ Or open the full catalog and select **AI for Freelancers: Mastering the Future o
 
 ## About
 
-The freelance economy is massive and growing, with AI representing the most significant productivity shift in a generation. Yet no comprehensive book exists to guide freelancers through AI adoption. The HN threads reveal entrepreneurs building narrow AI tools for freelancers, but freelancers need more than tools—they need strategy. How do you use AI without commoditizing your services? Which tasks to automate versus keep human? How to market AI-enhanced services? What's the ROI of different AI investments? A well-executed book could become the definitive guide for millions of freelancers navigating this transition, with minimal competition and clear, urgent demand from a audience that actively purchases professional development resources.
+The freelance economy is massive and growing, with AI representing the most significant productivity shift in a generation. Yet no comprehensive book exists to guide freelancers through AI adoption. The HN threads reveal entrepreneurs building narrow AI tools for freelancers, but freelancers need more than toolsG��they need strategy. How do you use AI without commoditizing your services? Which tasks to automate versus keep human? How to market AI-enhanced services? What's the ROI of different AI investments? A well-executed book could become the definitive guide for millions of freelancers navigating this transition, with minimal competition and clear, urgent demand from a audience that actively purchases professional development resources.
 
 ## Payment & delivery
 
